@@ -1,0 +1,38 @@
+*{
+    margin: 10;
+    padding: 5;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: 'Open Snas';
+}   
+header{
+    background-color: #f2f2f2;
+    padding: 25px 0;
+}
+nav a{
+    display: inline-block;
+    text-decoration: none;
+    color: #696969;
+    margin: 0 30px;
+    padding: 5px 15px;
+    border-radius: 30px;
+}
+nav a:hover{
+    background-color: #000;
+    color: #fff;
+}
+.footer{background-color: #D7BDE2;
+                padding: 10px;
+                text-align: center;
+
+ .topnav a:hover{background-color: #ECCEC8;
+        color: black;
+    }
+
+       
+
+
+
+
