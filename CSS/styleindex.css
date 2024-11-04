@@ -10,6 +10,8 @@ body{
 header{
     background-color: #f2f2f2;
     padding: 25px 0;
+    position: fixed;
+    box-shadow: 1px 1px 5px ;
 }
 nav a{
     display: inline-block;
@@ -29,9 +31,17 @@ nav a:hover{
 
  .topnav a:hover{background-color: #ECCEC8;
         color: black;
+        background-color: #FCD6CE;}
+
     }
 
-       
+   .header{background: linear-gradient(#D4E6F1, #A2D9CE) ;
+           padding: 30px;
+           text-align: center;
+           color: #150e56;
+           font-size: 35px;
+
+    } 
 
 
 
